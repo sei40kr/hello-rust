@@ -1,7 +1,7 @@
 use std::borrow::Borrow;
 use std::fmt::Display;
 
-// 5-10-borrow-and-asref.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn foo<T: Borrow<i32> + Display>(a: T) {

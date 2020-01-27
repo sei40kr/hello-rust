@@ -1,4 +1,4 @@
-// 4-35-raw-pointers.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn main() {

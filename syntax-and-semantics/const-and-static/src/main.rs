@@ -1,4 +1,4 @@
-// 4-26-const-and-static.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 const _N: i32 = 5;

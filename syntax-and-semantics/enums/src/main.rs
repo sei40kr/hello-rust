@@ -1,4 +1,4 @@
-// 4-12-enums.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 #[allow(dead_code)]

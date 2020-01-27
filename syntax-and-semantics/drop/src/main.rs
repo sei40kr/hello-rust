@@ -1,6 +1,6 @@
 struct HasDrop;
 
-// 4-20-drop.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 impl Drop for HasDrop {

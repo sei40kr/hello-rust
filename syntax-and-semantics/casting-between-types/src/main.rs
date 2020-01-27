@@ -1,6 +1,6 @@
 use std::mem;
 
-// 4-29-casting-between-types.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn main() {

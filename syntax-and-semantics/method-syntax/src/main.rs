@@ -1,4 +1,4 @@
-// 4-15-method-syntax.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 struct Circle {

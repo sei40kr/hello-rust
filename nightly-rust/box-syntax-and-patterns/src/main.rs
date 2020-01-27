@@ -1,6 +1,6 @@
 #![feature(box_syntax)]
 
-// 6-8-box-syntax-and-patterns.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 #[allow(dead_code)]

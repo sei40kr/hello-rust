@@ -1,4 +1,4 @@
-// 5-1-the-stack-and-the-heap.rs ---
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn foo(x: &i32) {

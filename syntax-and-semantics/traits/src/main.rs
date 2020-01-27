@@ -1,6 +1,6 @@
 use std::fmt::Debug;
 
-// 4-19-traits.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 // fn foo<T: Clone + Debug>(x: T) {
