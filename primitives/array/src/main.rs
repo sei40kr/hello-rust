@@ -1,6 +1,6 @@
 use std::mem;
 
-// 2-3-array.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn analyze_slice(slice: &[i32]) {

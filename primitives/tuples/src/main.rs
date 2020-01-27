@@ -1,4 +1,4 @@
-// 2-2-tuples.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn reverse(pair: (i32, bool)) -> (bool, i32) {

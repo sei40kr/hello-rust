@@ -1,4 +1,4 @@
-// 7-5-2-guard.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn main() {

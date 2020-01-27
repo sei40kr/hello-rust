@@ -1,4 +1,4 @@
-// 8-2-5-output-parameters.rs
+// main.rs
 // author: Seong Yong-ju <sei40kr@gmail.com>
 
 fn create_fn() -> Box<Fn()> {
