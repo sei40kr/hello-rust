@@ -18,9 +18,9 @@ fn main() {
         });
     }
 
-    for _ in 0..10 {
+    for _ in 0..3 {
         rx.recv().unwrap();
     }
 
-    thread::sleep(Duration::from_millis(50));
+    assert_eq!(*data.lock().unwrap(), vec![2, 3, 4]);
 }
