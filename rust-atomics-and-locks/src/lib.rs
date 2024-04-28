@@ -1,2 +1,2 @@
-pub mod arc;
+pub mod arcandweak;
 pub mod spinlock;
